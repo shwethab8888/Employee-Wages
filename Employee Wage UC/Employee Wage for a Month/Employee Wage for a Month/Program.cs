@@ -1,8 +1,8 @@
-﻿namespace Employee_Wage_for_a_Month
-{
-    using System;
+﻿using System;
 
-    class Program
+namespace Employee_Wage_for_a_Month
+{
+    internal class Program
     {
         static void Main()
         {

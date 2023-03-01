@@ -1,8 +1,8 @@
-﻿namespace Employee_Wage_using_switch_stmt
-{
-    using System;
+﻿using System;
 
-    class Program
+namespace Employee_Wage_using_switch_stmt
+{
+    internal class Program
     {
         static void Main()
         {

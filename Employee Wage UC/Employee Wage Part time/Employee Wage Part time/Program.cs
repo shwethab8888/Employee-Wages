@@ -11,7 +11,7 @@
             decimal fullDayWage = wagePerHour * fullDayHour;
             decimal partTimeWage = wagePerHour * partTimeHour;
 
-            Console.WriteLine("Full Day Wage: " + fullDayWage); 
+            Console.WriteLine("Full Day Wage: " + fullDayWage);
             Console.WriteLine("Part Time Wage: " + partTimeWage);
         }
     }

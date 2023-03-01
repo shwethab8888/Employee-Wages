@@ -1,8 +1,8 @@
-﻿namespace Employee_Wage_working_hr_or_day_in_a_month
-{
-    using System;
+﻿using System;
 
-    class Program
+namespace Employee_Wage_working_hr_or_day_in_a_month
+{
+    internal class Program
     {
         static void Main()
         {
