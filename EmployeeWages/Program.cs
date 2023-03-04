@@ -13,8 +13,8 @@
             // WorkingHourPerMonth.WorkingHour_PerMonth();
             //EmployeeClassMethod.Employee_ClassMethod();
             // ComputeEmpWageCompany.ComputeEmpWage_Company();
-            EmpWageBuilderObject.EmpWage_BuilderObject();
-
+            // EmpWageBuilderObject.EmpWage_BuilderObject();
+            CompanyEmpWage.Company_EmpWage();
         }
     }
 }
