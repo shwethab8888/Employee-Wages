@@ -8,7 +8,8 @@
             //PresentAbsent.Present_Absent();
             //DailyWage.Daily_Wage();
             // PartTimeEmployee.PartTime_Employee();
-            SwitchCase.Switch_Case();
+            //SwitchCase.Switch_Case();
+            MonthlyWage.Monthly_Wage();
 
 
         }
