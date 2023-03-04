@@ -9,7 +9,8 @@
             //DailyWage.Daily_Wage();
             // PartTimeEmployee.PartTime_Employee();
             //SwitchCase.Switch_Case();
-            MonthlyWage.Monthly_Wage();
+            //MonthlyWage.Monthly_Wage();
+            WorkingHourPerMonth.WorkingHour_PerMonth();
 
 
         }
